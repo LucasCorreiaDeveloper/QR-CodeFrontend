@@ -10,6 +10,10 @@ Simple QR code project, built entirely with HTML and CSS – 100% responsive
 
 
 📸 - https://www.instagram.com/correiaa.dev?stkn=MXkwdWt1Zjh3cW00NQ==
+
+
 💼 - https://www.linkedin.com/in/lucas-correia-05a092281/
+
+
 🐙 - https://github.com/LucasCorreiaDeveloper
 
